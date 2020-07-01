@@ -15,3 +15,17 @@ The Game of Pig redone in pure HTML, CSS and JavaScript as a Web App.
       score gets added to their GLOBAL score. After holding, it is the next player's turn.
     * The first player to reach either the PRE-SET GLOBAL Score of 21 points or the CUSTOM
       GLOBAL Score  
+
+### UI 
+
+#### Demo 0
+![Demo0](/assets/demo_0.png)
+
+#### Demo 1
+![Demo1](/assets/demo_1.png)
+
+#### Demo 2
+![Demo2](/assets/demo_2.png)
+
+#### Demo 3
+![Demo2](/assets/demo_3.png)
